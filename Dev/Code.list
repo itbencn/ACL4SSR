@@ -1,4 +1,33 @@
-# 内容： 开发代理
+# 内容： 开发工作
+
+# GitHub
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,githubusercontent.com
+
+# Google
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com.tw
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-KEYWORD,google
+
+DOMAIN-KEYWORD,altrepo
+DOMAIN-KEYWORD,git-scm
+DOMAIN-KEYWORD,tortoisegit
+DOMAIN-KEYWORD,charlesproxy
+DOMAIN-KEYWORD,proxifier
+DOMAIN-SUFFIX,nightly.link
+DOMAIN-SUFFIX,bluestacks.com
+DOMAIN-SUFFIX,slproweb.com
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,evozi.com
+DOMAIN-SUFFIX,apk.support
+DOMAIN-SUFFIX,curl.se
+DOMAIN-SUFFIX,gitmoji.dev
+DOMAIN-SUFFIX,rishav.dev
+DOMAIN-SUFFIX,shields.io
 
 # EC平台
 DOMAIN-SUFFIX,ieasyclick.com

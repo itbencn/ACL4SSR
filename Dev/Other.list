@@ -1,39 +1,10 @@
 # 内容： 杂类代理
 
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,altrepo
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,git-scm
-DOMAIN-KEYWORD,tortoisegit
-DOMAIN-KEYWORD,charlesproxy
-DOMAIN-KEYWORD,proxifier
-DOMAIN-SUFFIX,nightly.link
-DOMAIN-SUFFIX,bluestacks.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,slproweb.com
-DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,evozi.com
-DOMAIN-SUFFIX,apk.support
-DOMAIN-SUFFIX,curl.se
-DOMAIN-SUFFIX,gitmoji.dev
-DOMAIN-SUFFIX,rishav.dev
-DOMAIN-SUFFIX,shields.io
-
-DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,etherscan
-DOMAIN-KEYWORD,tronscan
-DOMAIN-SUFFIX,token.im
-DOMAIN-SUFFIX,imkey.im
-DOMAIN-SUFFIX,okx.com
-
-
 # 桌面日历
 IP-CIDR,47.92.230.221/32
 # 微软办公
 DOMAIN-SUFFIX,office.com
 
-
-DOMAIN-SUFFIX,ultramobile.com
 
 
 # IP-CIDR IP段转换工具 https://ip2cidr.com/
